@@ -23,10 +23,10 @@ Thank you for considering contributing to Meshtastic! We appreciate your time an
 
 ## Getting Started
 
-1. Fork the repository on GitLab.
+1. Fork the repository on GitHub.
 2. Clone your fork to your local machine:
    ```sh
-   git clone https://gitlab.com/<your-username>/Meshtastic-Apple.git
+   git clone https://github.com/<your-username>/Meshtastic-Apple.git
    ```
 3. Navigate to the project directory:
    ```sh
